@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\models\\craftwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:models\\craftwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\views\\craftworks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:views\\craftworks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\controllers\\craftworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:controllers\\craftworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\views\\craftworks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:views\\craftworks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|c:\\users\\caide\\onedrive\\documents\\cos 132\\khumalocraftwebapp\\migrations\\20240402082440_khumalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF7F21-139D-45CF-A031-98F9F939F6A1}|KhumaloCraftWebApp.csproj|solutionrelative:migrations\\20240402082440_khumalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 198,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T13:00:25.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T12:59:49.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T12:18:19.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T12:18:01.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWork.cshtml",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\MyWork.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyWork.cshtml",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Home\\MyWork.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyWork.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T11:14:49.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvx8AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T11:10:23.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:09:50.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Craftworks\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Craftworks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Craftworks\\Create.cshtml",
+              "RelativeToolTip": "Views\\Craftworks\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T09:03:30.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Craftworks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Craftworks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Views\\Craftworks\\Index.cshtml",
+              "RelativeToolTip": "Views\\Craftworks\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T08:41:53.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CraftworksController.cs",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Controllers\\CraftworksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CraftworksController.cs",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Controllers\\CraftworksController.cs",
+              "RelativeToolTip": "Controllers\\CraftworksController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:37:56.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240402082440_Khumalo.cs",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Migrations\\20240402082440_Khumalo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240402082440_Khumalo.cs",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Migrations\\20240402082440_Khumalo.cs",
+              "RelativeToolTip": "Migrations\\20240402082440_Khumalo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:24:41.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T08:23:49.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:01:06.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:00:24.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Craftwork.cs",
+              "DocumentMoniker": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Models\\Craftwork.cs",
+              "RelativeDocumentMoniker": "Models\\Craftwork.cs",
+              "ToolTip": "C:\\Users\\caide\\OneDrive\\Documents\\COS 132\\KhumaloCraftWebApp\\Models\\Craftwork.cs",
+              "RelativeToolTip": "Models\\Craftwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:55:55.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

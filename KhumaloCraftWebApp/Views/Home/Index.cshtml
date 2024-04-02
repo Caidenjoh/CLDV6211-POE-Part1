@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Hero Section -->
+<div class="hero-section">
+    <div class="container text-center">
+        <h1>Welcome to KhumaloCraft</h1>
+        <p class="lead">Discover the beauty of handcrafted artistry.</p>
+        <a href="@Url.Action("MyWork", "Home")#my-work" class="btn btn-primary btn-lg">Explore Our Collection</a>
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="container my-5">
+    <!-- Featured Products Section -->
+    <section class="featured-products">
+        <h2 class="text-center mb-4">Featured Artisan Work</h2>
+        <div class="row">
+            <!-- Sample Product Card -->
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="~/images/MonaLisa.jpg.webp" class="card-img-top" alt="Mona Lisa">
+                    <div class="card-body">
+                        <h5 class="card-title">Mona Lisa</h5>
+                        <p class="card-text">The real deal!</p>
+                        <a href="#" class="btn btn-outline-primary">View More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <img src="~/images/RiverForest.jpeg" class="card-img-top" alt="Forest River
+                    <div class="card-body">
+                        <h5 class="card-title">Forest River</h5>
+                        <p class="card-text">A beautiful scenic painting!</p>
+                        <a href="#" class="btn btn-outline-primary">View More</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Additional product cards can be added here -->
+        </div>
+    </section>
+
+    <section class="testimonials my-5">
+        <h2 class="text-center mb-4">What Our Customers Say</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <blockquote class="blockquote">
+                    <p class="mb-0">"KhumaloCraft offers a unique selection of artisan crafts that you simply can't find anywhere else. Their quality is unmatched."</p>
+                    <footer class="blockquote-footer">Jane Doe, <cite title="Source Title">Art Enthusiast</cite></footer>
+                </blockquote>
+            </div>
+            <div class="col-md-6">
+                <blockquote class="blockquote">
+                    <p class="mb-0">"Purchasing from KhumaloCraft means you're supporting local artisans and their incredible talents. It feels good to shop here."</p>
+                    <footer class="blockquote-footer">John Smith, <cite title="Source Title">Happy Customer</cite></footer>
+                </blockquote>
+            </div>
+        </div>
+    </section>
+
+    <section class="call-to-action my-5">
+        <div class="text-center">
+            <h2>Join Our Community</h2>
+            <p>Become a part of KhumaloCraft today and get exclusive access to the latest artisan crafts.</p>
+            <a href="/register" class="btn btn-success btn-lg">Sign Up Now</a>
+        </div>
+    </section>
+
+</div>
+
+<!-- Styles -->
+<style>
+    .hero-section {
+        padding: 100px 0;
+        color: #000; /* Ensuring text is black for better readability */
+        text-align: center; /* Centering the text */
+        background-color: #f8f9fa; /* A light background color; adjust as needed */
+    }
+
+    .testimonial-text {
+        margin-bottom: 20px; /* Adds space below the testimonial text */
+    }
+
+    .blockquote-footer {
+        margin-top: 20px; /* Adds space above the customer's name */
+    }
+
+    body {
+        background-color: #f3e9e0; /* Light Cappuccino Color */
+    }
+    /* Further custom styles for other sections can go here */
+</style>
+
